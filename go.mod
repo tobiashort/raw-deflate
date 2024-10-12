@@ -1,3 +1,3 @@
-module github.com/t-hg/raw-deflate
+module github.com/tobiashort/raw-deflate
 
 go 1.22.5
